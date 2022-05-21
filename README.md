@@ -49,6 +49,8 @@ Check the Books folder!
 ## Courses
 
 - [Solidity Basics - Smart Contracts and Decentralized Finance](https://www.youtube.com/watch?v=3wb-tnMcTFU&list=PLoVRRjQbqYFyV6DQtoNlCbnp3QrvSITPi&ab_channel=CenterforInnovativeFinance)
+- [Solidity, Blockchain and Smart Contract Course - Beginner to Expert](https://www.youtube.com/watch?v=M576WGiDBdQ&t=30208s)
+- [Cryptozombies - #1 Solidity Tutotrial and Ethereum Blockchain Programming Course](https://cryptozombies.io/)
 - [Advanced Solidity: Understanding and Optimizing Gas Costs](https://www.udemy.com/course/advanced-solidity-understanding-and-optimizing-gas-costs/?couponCode=4049566DE95C58953640)
 
 ## Papers
